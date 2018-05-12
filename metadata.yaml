@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6329'
     url: http://www.gutenberg.org/2009/agents/6329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15829#MemoriesA-Record-of-Personal-Experience-and-Adventure-During-Four-Years-of-War
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2005-05-15'
 gutenberg_type: Text
